@@ -1,0 +1,26 @@
+.menu-item{
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    text-align: center;
+    padding: 5%;
+    border: 5px solid white;
+    transition: .25s;
+    cursor: pointer;
+}
+.menu-item:hover{
+    transform: scale(1.01,1.01);
+}
+
+.large {
+    height: 400px;
+}
+
+.content{
+    background-color: #ffffffa3;
+    color: black;
+    width: 50%;
+    padding: 5%;
+    text-transform: uppercase;
+    margin: 15% auto;
+}
